@@ -1,0 +1,82 @@
+{
+    "controlador.ed.lista.ListaEnlazada": {
+        "cabecera": {
+            "info": {
+                "@class": "modelo.Ciudad",
+                "id": 1,
+                "nombre": "Loja"
+            },
+            "sig": {
+                "info": {
+                    "@class": "modelo.Ciudad",
+                    "id": 2,
+                    "nombre": "Catamayo"
+                },
+                "sig": {
+                    "info": {
+                        "@class": "modelo.Ciudad",
+                        "id": 3,
+                        "nombre": "Quito"
+                    },
+                    "sig": {
+                        "info": {
+                            "@class": "modelo.Ciudad",
+                            "id": 4,
+                            "nombre": "Guayaquill"
+                        },
+                        "sig": {
+                            "info": {
+                                "@class": "modelo.Ciudad",
+                                "id": 5,
+                                "nombre": "Zamora"
+                            },
+                            "sig": {
+                                "info": {
+                                    "@class": "modelo.Ciudad",
+                                    "id": 6,
+                                    "nombre": "Manabi"
+                                },
+                                "sig": {
+                                    "info": {
+                                        "@class": "modelo.Ciudad",
+                                        "id": 7,
+                                        "nombre": "Cuenca"
+                                    },
+                                    "sig": {
+                                        "info": {
+                                            "@class": "modelo.Ciudad",
+                                            "id": 8,
+                                            "nombre": "Riobamba"
+                                        },
+                                        "sig": {
+                                            "info": {
+                                                "@class": "modelo.Ciudad",
+                                                "id": 9,
+                                                "nombre": "Ambato"
+                                            },
+                                            "sig": {
+                                                "info": {
+                                                    "@class": "modelo.Ciudad",
+                                                    "id": 10,
+                                                    "nombre": "Ibarra"
+                                                },
+                                                "sig": {
+                                                    "info": {
+                                                        "@class": "modelo.Ciudad",
+                                                        "id": 11,
+                                                        "nombre": "Esmeraldas"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "size": 11
+    }
+}

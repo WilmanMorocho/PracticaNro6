@@ -1,0 +1,181 @@
+{
+    "controlador.ed.lista.ListaEnlazada": {
+        "cabecera": {
+            "info": {
+                "@class": "modelo.Ruta",
+                "idCiudadOri": 1,
+                "nomCiudadDes": "Catamayo",
+                "distancia": 38.2
+            },
+            "sig": {
+                "info": {
+                    "@class": "modelo.Ruta",
+                    "idCiudadOri": 5,
+                    "nomCiudadDes": "Loja",
+                    "distancia": 58.8
+                },
+                "sig": {
+                    "info": {
+                        "@class": "modelo.Ruta",
+                        "idCiudadOri": 1,
+                        "nomCiudadDes": "Guayaquill",
+                        "distancia": 401.3
+                    },
+                    "sig": {
+                        "info": {
+                            "@class": "modelo.Ruta",
+                            "idCiudadOri": 3,
+                            "nomCiudadDes": "Loja",
+                            "distancia": 776.4
+                        },
+                        "sig": {
+                            "info": {
+                                "@class": "modelo.Ruta",
+                                "idCiudadOri": 2,
+                                "nomCiudadDes": "Guayaquill",
+                                "distancia": 370.5
+                            },
+                            "sig": {
+                                "info": {
+                                    "@class": "modelo.Ruta",
+                                    "idCiudadOri": 3,
+                                    "nomCiudadDes": "Catamayo",
+                                    "distancia": 687.8
+                                },
+                                "sig": {
+                                    "info": {
+                                        "@class": "modelo.Ruta",
+                                        "idCiudadOri": 2,
+                                        "nomCiudadDes": "Zamora",
+                                        "distancia": 95.3
+                                    },
+                                    "sig": {
+                                        "info": {
+                                            "@class": "modelo.Ruta",
+                                            "idCiudadOri": 4,
+                                            "nomCiudadDes": "Quito",
+                                            "distancia": 426.6
+                                        },
+                                        "sig": {
+                                            "info": {
+                                                "@class": "modelo.Ruta",
+                                                "idCiudadOri": 3,
+                                                "nomCiudadDes": "Zamora",
+                                                "distancia": 697.5
+                                            },
+                                            "sig": {
+                                                "info": {
+                                                    "@class": "modelo.Ruta",
+                                                    "idCiudadOri": 5,
+                                                    "nomCiudadDes": "Guayaquill",
+                                                    "distancia": 458.1
+                                                },
+                                                "sig": {
+                                                    "info": {
+                                                        "@class": "modelo.Ruta",
+                                                        "idCiudadOri": 1,
+                                                        "nomCiudadDes": "Manabi",
+                                                        "distancia": 586
+                                                    },
+                                                    "sig": {
+                                                        "info": {
+                                                            "@class": "modelo.Ruta",
+                                                            "idCiudadOri": 4,
+                                                            "nomCiudadDes": "Riobamba",
+                                                            "distancia": 232
+                                                        },
+                                                        "sig": {
+                                                            "info": {
+                                                                "@class": "modelo.Ruta",
+                                                                "idCiudadOri": 3,
+                                                                "nomCiudadDes": "Ibarra",
+                                                                "distancia": 120.5
+                                                            },
+                                                            "sig": {
+                                                                "info": {
+                                                                    "@class": "modelo.Ruta",
+                                                                    "idCiudadOri": 7,
+                                                                    "nomCiudadDes": "Loja",
+                                                                    "distancia": 211.4
+                                                                },
+                                                                "sig": {
+                                                                    "info": {
+                                                                        "@class": "modelo.Ruta",
+                                                                        "idCiudadOri": 9,
+                                                                        "nomCiudadDes": "Guayaquill",
+                                                                        "distancia": 266.3
+                                                                    },
+                                                                    "sig": {
+                                                                        "info": {
+                                                                            "@class": "modelo.Ruta",
+                                                                            "idCiudadOri": 10,
+                                                                            "nomCiudadDes": "Manabi",
+                                                                            "distancia": 482.2
+                                                                        },
+                                                                        "sig": {
+                                                                            "info": {
+                                                                                "@class": "modelo.Ruta",
+                                                                                "idCiudadOri": 8,
+                                                                                "nomCiudadDes": "Quito",
+                                                                                "distancia": 214.4
+                                                                            },
+                                                                            "sig": {
+                                                                                "info": {
+                                                                                    "@class": "modelo.Ruta",
+                                                                                    "idCiudadOri": 5,
+                                                                                    "nomCiudadDes": "Cuenca",
+                                                                                    "distancia": 268.5
+                                                                                },
+                                                                                "sig": {
+                                                                                    "info": {
+                                                                                        "@class": "modelo.Ruta",
+                                                                                        "idCiudadOri": 6,
+                                                                                        "nomCiudadDes": "Ambato",
+                                                                                        "distancia": 431
+                                                                                    },
+                                                                                    "sig": {
+                                                                                        "info": {
+                                                                                            "@class": "modelo.Ruta",
+                                                                                            "idCiudadOri": 1,
+                                                                                            "nomCiudadDes": "Guayaquill",
+                                                                                            "distancia": 100
+                                                                                        },
+                                                                                        "sig": {
+                                                                                            "info": {
+                                                                                                "@class": "modelo.Ruta",
+                                                                                                "idCiudadOri": 1,
+                                                                                                "nomCiudadDes": "Esmeraldas",
+                                                                                                "distancia": 200
+                                                                                            },
+                                                                                            "sig": {
+                                                                                                "info": {
+                                                                                                    "@class": "modelo.Ruta",
+                                                                                                    "idCiudadOri": 4,
+                                                                                                    "nomCiudadDes": "Esmeraldas",
+                                                                                                    "distancia": 500
+                                                                                                }
+                                                                                            }
+                                                                                        }
+                                                                                    }
+                                                                                }
+                                                                            }
+                                                                        }
+                                                                    }
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "size": 22
+    }
+}
